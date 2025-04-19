@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi everyone, welcome to my GitHub profile👋 <br> I'm Rehnuma Tahiyan, a Software Engineering student at Noakhali Science and Technology University (NSTU). I specialize in Full Stack SQA, Full Stack Development, Data Science, and Machine Learning,JAVA. I'm driven by a passion for building meaningful solutions and leveraging technology to tackle real-world challenges. I love learning new things and enjoy collaborating on open-source projects.
+Hello everyone! welcome to my GitHub profile👋 <br> I'm Rehnuma Tahiyan, a Software Engineering student at Noakhali Science and Technology University (NSTU). I specialize in Full Stack SQA, Full Stack Development, Data Science, and Machine Learning,JAVA. I'm driven by a passion for building meaningful solutions and leveraging technology to tackle real-world challenges. I love learning new things and enjoy collaborating on open-source projects.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/)
