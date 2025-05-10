@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning on Design patterns,OOP,AI
 - 💞️ I’m looking to collaborate on open-source projects.
 - 📫 How to reach me rehnumatahiyan@gmail.com or, https://www.linkedin.com/in/rehnuma-tahiyan/
+- 🌐 Know about me: [View Portfolio](https://rehnumatahiyan16.github.io/Portfolio/)
 - 😄 Pronouns: rehnuma/she/her
 - ⚡ Fun fact:I enjoy with my plants or listening music and love experimenting with photography!
 ---
